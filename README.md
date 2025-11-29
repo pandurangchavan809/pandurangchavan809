@@ -70,5 +70,8 @@ I’m passionate about building practical AI systems that merge machine learning
 📌 Interactive progress visualization
 
 ---
+## 🏆 GitHub Trophies
 
+![Pandurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandurangchavan&show_icons=true&theme=radical)
+---
 > ⚡ *I don’t chase models — I build systems that deliver impact.*
