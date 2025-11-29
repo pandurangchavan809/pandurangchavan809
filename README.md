@@ -12,7 +12,7 @@ I’m passionate about building practical AI systems that merge machine learning
 
 ---
 
-## 🧠 What I'm Currently Working On
+## 👨‍💻 What I'm Currently Working On
 - Improving my Machine Learning engineering skills through real-world projects  
 - Exploring applied AI concepts, model evaluation, and deployment strategies  
 - Strengthening Data Structures & Algorithms for scalable software development  
@@ -49,7 +49,7 @@ I’m passionate about building practical AI systems that merge machine learning
 
 ---
 
-## 🚩 Featured Projects
+## 👨‍💻 Featured Projects
 
 ### 🌍 Global AI Economic Intelligence Platform
 📌 Real-time analytics for 193 countries  
