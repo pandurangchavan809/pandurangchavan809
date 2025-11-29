@@ -1,12 +1,6 @@
-<h1 align="center">👋 Hi, I'm Pandurang Chavan</h1>
-
-<p align="center">
-  <b>ML Engineer</b> | <b>Research-Driven Developer</b> | <b>Programmer</b> | <b>Applied AI Enthusiast</b>
-</p>
-
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
 I’m passionate about building practical AI systems that merge machine learning, data engineering, and real-world problem solving. I enjoy experimenting with ML algorithms, analyzing data, and developing end-to-end solutions that generate measurable insights.
 
@@ -16,6 +10,13 @@ I’m passionate about building practical AI systems that merge machine learning
 - Improving my Machine Learning engineering skills through real-world projects  
 - Exploring applied AI concepts, model evaluation, and deployment strategies  
 - Strengthening Data Structures & Algorithms for scalable software development  
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandurang-chavan-7507b1325/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandurangchavan809)
 
 ---
 
@@ -69,19 +70,6 @@ I’m passionate about building practical AI systems that merge machine learning
 📌 K-Means clustering for personalized recommendations  
 📌 Activity tracking interface built in Streamlit  
 📌 Interactive progress visualization
-
----
-
-## 🎯 Interests
-
-**Applied AI • ML Engineering • Model Deployment • Data Science • Scalable ML Systems**
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandurang-chavan-7507b1325/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandurangchavan809)
 
 ---
 
