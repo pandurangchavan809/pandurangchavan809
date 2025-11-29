@@ -73,5 +73,7 @@ I’m passionate about building practical AI systems that merge machine learning
 ## 🏆 GitHub Trophies
 
 ![Pandurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandurangchavan&show_icons=true&theme=radical)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pandurangchavan&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pandurangchavan&theme=github)
 ---
 > ⚡ *I don’t chase models — I build systems that deliver impact.*
