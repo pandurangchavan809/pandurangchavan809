@@ -1,4 +1,4 @@
-### 💫 About Me
+## 💫 About Me
 
 I’m passionate about building practical AI systems that merge machine learning, data engineering, and real-world problem solving. I enjoy experimenting with ML algorithms, analyzing data, and developing end-to-end solutions that generate measurable insights.
 
