@@ -85,4 +85,4 @@ I’m passionate about building practical AI systems that merge machine learning
 
 ---
 
-> ⚡ *"I don’t chase models — I build systems that deliver impact."*
+> ⚡ *I don’t chase models — I build systems that deliver impact.*
