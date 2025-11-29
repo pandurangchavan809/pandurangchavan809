@@ -48,32 +48,4 @@ I’m passionate about building practical AI systems that merge machine learning
 
 ---
 
-## 👨‍💻 Featured Projects
-
-### 🌍 Global AI Economic Intelligence Platform
-📌 Real-time analytics for 193 countries  
-📌 ML-driven GDP prediction, inflation scores, and economic insights  
-📌 Secure Streamlit dashboard with visualizations (heatmaps, comparison charts)
-
----
-
-### 🎯 Employee Performance Evaluation Dashboard
-📌 AI-assisted scoring using Linear Regression  
-📌 Radar-chart performance metrics  
-📌 Flask + MySQL + Scikit-learn–based workflow
-
----
-
-### 📈 Smart Habit & Productivity Recommendation System
-📌 K-Means clustering for personalized recommendations  
-📌 Activity tracking interface built in Streamlit  
-📌 Interactive progress visualization
-
----
-## 🏆 GitHub Trophies
-
-![Pandurang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandurangchavan&show_icons=true&theme=radical)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pandurangchavan&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pandurangchavan&theme=github)
----
 > ⚡ *I don’t chase models — I build systems that deliver impact.*
