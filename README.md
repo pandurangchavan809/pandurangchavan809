@@ -8,7 +8,14 @@
 
 ## 🚀 About Me
 
-I build practical machine learning solutions that combine data engineering, clean software practices, and applied AI methodologies. My work focuses on turning real-world problems into measurable outcomes using ML pipelines, model evaluation, and deployment strategies.
+I’m passionate about building practical AI systems that merge machine learning, data engineering, and real-world problem solving. I enjoy experimenting with ML algorithms, analyzing data, and developing end-to-end solutions that generate measurable insights.
+
+---
+
+## 🧠 What I'm Currently Working On
+- Improving my Machine Learning engineering skills through real-world projects  
+- Exploring applied AI concepts, model evaluation, and deployment strategies  
+- Strengthening Data Structures & Algorithms for scalable software development  
 
 ---
 
