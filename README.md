@@ -6,7 +6,8 @@
 
 Building practical AI applications that connect LLMs, retrieval systems, and backend engineering.
 
-[LinkedIn](https://www.linkedin.com/in/pandurang-chavan-7507b1325/) · [GitHub](https://github.com/pandurangchavan809)
+[LinkedIn](https://www.linkedin.com/in/pandurang-chavan-7507b1325/) · [GitHub](https://github.com/pandurangchavan809) · [Gmail](pandurangchavan809@gmail.com)
+
 
 </div>
 
@@ -80,6 +81,7 @@ Dr. D. Y. Patil Institute of Technology, Pune · 2023–2027
 
 - LinkedIn: [pandurang-chavan-7507b1325](https://www.linkedin.com/in/pandurang-chavan-7507b1325/)
 - GitHub: [pandurangchavan809](https://github.com/pandurangchavan809)
+- Gmail: [pandurangchavan809@gmail.com]
 
 ---
 
