@@ -1,51 +1,90 @@
-## 💫 About Me
+<div align="center">
 
-I’m passionate about building practical AI systems that merge machine learning, data engineering, and real-world problem solving. I enjoy experimenting with ML algorithms, analyzing data, and developing end-to-end solutions that generate measurable insights.
+# Hi, I'm Pandurang Chavan 👋
 
----
+### AI Engineer in the Making · Generative AI · Agentic AI · RAG
 
-## 👨‍💻 What I'm Currently Working On
-- Improving my Machine Learning engineering skills through real-world projects  
-- Exploring applied AI concepts, model evaluation, and deployment strategies  
-- Strengthening Data Structures & Algorithms for scalable software development  
+Building practical AI applications that connect LLMs, retrieval systems, and backend engineering.
 
----
+[LinkedIn](https://www.linkedin.com/in/pandurang-chavan-7507b1325/) · [GitHub](https://github.com/pandurangchavan809)
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pandurang-chavan-7507b1325/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandurangchavan809)
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### 🔹 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I'm an Artificial Intelligence and Data Science student at Dr. D. Y. Patil Institute of Technology, Pune, and an **AI Intern at Visteon**. I work on enterprise AI concepts and applications involving document intelligence, Agentic RAG, retrieval pipelines, and human review workflows.
 
-### 🔹 Machine Learning & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
+I'm especially interested in building reliable AI systems—not just LLM demos—with attention to retrieval quality, evaluation, state management, and deployment.
 
-### 🔹 Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+## Current Focus
 
-### 🔹 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+- **Agentic AI:** learning stateful orchestration with LangGraph, tool calling, and workflow design
+- **RAG engineering:** retrieval strategies, embeddings, reranking, query rewriting, and evaluation
+- **AI backend development:** Python, FastAPI, REST APIs, and deployment fundamentals
+- **LLM adaptation:** studying fine-tuning methods and how to evaluate model behavior
+- **Automotive AI:** exploring AI-assisted vehicle-to-vehicle (V2V) and cockpit experiences
 
-### 🔹 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## Selected Projects
+
+### RAGDocs AI
+An AI-powered PDF assistant built with LangChain, Gemini, Flask, and ChromaDB.
+
+- Implements PDF chunking, embeddings, and semantic retrieval
+- Supports conversational document Q&A and saved chat history
+- Includes JWT-based authentication
+
+[Open Project](https://rag-docs-ai.vercel.app/)
+
+### DataPilot AI
+A natural-language-to-SQL assistant built with LangChain, FastAPI, Gemini, and SQL databases.
+
+- Converts natural-language questions into SQL queries
+- Uses schema-aware generation and SQL correction
+- Provides backend APIs for conversational database analytics
+
+### Global Economic Intelligence Platform
+An economic analytics platform integrating country-level datasets with AI-powered summaries and insights.
+
+- Integrates data from IMF, World Bank, and CountryLayer APIs
+- Uses SQL pipelines to organize country-level data
+- Applies Gemini for trend analysis and economic summarization
+
+## Technical Skills
+
+**Languages**  
+Python · C++ · SQL · JavaScript
+
+**Generative AI**  
+LLMs · RAG · Agentic RAG · LangChain · Embeddings · Reranking · Prompt Engineering · Vector Search · Human-in-the-Loop Workflows
+
+**Backend & APIs**  
+FastAPI · Flask · REST APIs
+
+**Machine Learning & Data**  
+Scikit-learn · TensorFlow · Keras · Pandas · NumPy · Matplotlib · Seaborn
+
+**Databases**  
+Qdrant · ChromaDB · MySQL · MongoDB · SQLite
+
+**Tools & Cloud**  
+Git · GitHub · Docker · AWS (EC2, S3, Lambda) · Jupyter
+
+## Education
+
+**B.E. in Artificial Intelligence and Data Science**  
+Dr. D. Y. Patil Institute of Technology, Pune · 2023–2027
+
+## Connect
+
+- LinkedIn: [pandurang-chavan-7507b1325](https://www.linkedin.com/in/pandurang-chavan-7507b1325/)
+- GitHub: [pandurangchavan809](https://github.com/pandurangchavan809)
 
 ---
 
-> ⚡ *I don’t chase models — I build systems that deliver impact.*
+<div align="center">
+
+*I build intelligent systems around AI models—with a focus on retrieval, reliability, and real-world use.*
+
+</div>
